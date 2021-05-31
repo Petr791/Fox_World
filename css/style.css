@@ -172,9 +172,7 @@ body {
 
 .header__btn-link:hover {
     color: #062f7a;
-    border: 15px solid #f70909;
-    padding: 0 8px;
-    top: 69.5vh;
+    border: 11px solid #f70909;
 }
 
 .header-container {
